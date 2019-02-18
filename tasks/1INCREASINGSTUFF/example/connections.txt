@@ -1,0 +1,25 @@
+node no 0 has id = 0
+and its connected to: 1(a)  2(b)  
+node no 1 has id = 1
+and its connected to: 1(a)  1(b)  3(a)  
+node no 2 has id = 2
+and its connected to: 2(a)  2(b)  3(b)  
+node no 3 has id = 3
+and its connected to: 3(a)  3(b)  4(C)  
+node no 4 has id = 4
+and its connected to: 5(a)  6(b)  10(c)  10(C)  
+node no 5 has id = 5
+and its connected to: 5(a)  5(b)  5(c)  7(C)  
+node no 6 has id = 6
+and its connected to: 6(a)  6(b)  6(c)  8(C)  
+node no 7 has id = 7
+and its connected to: 9(a)  
+node no 8 has id = 8
+and its connected to: 9(b)  
+node no 9 has id = 9
+and its connected to: 9(a)  9(b)  4(C)  
+node no 10 has id = 10
+and its connected to: 10(c)  11(_)  
+node no 11 has id = 11
+and its connected to: 
+
