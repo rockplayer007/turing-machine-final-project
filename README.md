@@ -1,2 +1,2 @@
-# progetto-api
-Prova Finale (Progetto di Algoritmi e Strutture Dati)
+# Prova Finale di Algoritmi e Strutture Dati 
+Un simulatoredi Macchinedi Turing non-deterministiche 
