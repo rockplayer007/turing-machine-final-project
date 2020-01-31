@@ -1,4 +1,4 @@
-# Prova Finale di Algoritmi e Strutture Dati 
+# Final Project of Algorithms and Data Structures  
 ### Simulator for non-deterministic Turing Machines 
 
 Implementation in C language of an interpreter for non-deterministic Turing Machines, considering the variant with single tape and only accepting states.
